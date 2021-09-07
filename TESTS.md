@@ -4,7 +4,7 @@
 ## Configuración de pruebas con **pytest**
 
 `nota:` para todo las pruebas puedes usar esta configuración:
-### Install command (optional)
+### Install command
 ```
 sudo -H pip3 install pytest
 ```
